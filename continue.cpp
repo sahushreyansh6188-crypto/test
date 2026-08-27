@@ -11,7 +11,7 @@ int main(){
             continue;
         }
         i=i+1;
-        cout<<i<<endl;
+        cout<<i<<endl; // Printing i value
     }
     return 0;
 }
